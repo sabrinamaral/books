@@ -1,3 +1,36 @@
 {
-  "books": []
+  "books": [
+    {
+      "title": "My New Job",
+      "id": 2
+    },
+    {
+      "title": "Waterfalls",
+      "id": 3
+    },
+    {
+      "title": "Strawberries",
+      "id": 4
+    },
+    {
+      "title": "The Diver",
+      "id": 5
+    },
+    {
+      "title": "The Traveller",
+      "id": 9
+    },
+    {
+      "title": "The Wolf",
+      "id": 10
+    },
+    {
+      "title": "My Family Farm",
+      "id": 13
+    },
+    {
+      "title": "Forest",
+      "id": 14
+    }
+  ]
 }
